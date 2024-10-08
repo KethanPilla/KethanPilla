@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Hi 👋 My name is Kethan Pilla
+=============================
+
+Full Stack Developer
+--------------------
+
+* 🌍  I'm based in Alabama
+* ✉️  You can contact me at [kethanpilla11@gmail.com](mailto:kethanpilla11@gmail.com)
 <!--
 **KethanPilla/KethanPilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
