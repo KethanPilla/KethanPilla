@@ -6,7 +6,7 @@ Full-Stack Developer
 
 👋 Hi there! I'm Kethan Pilla, an aspiring software engineer with a passion for problem-solving and building impactful software. Currently, I'm in my final year of studying Computer Science at the University of North Alabama, where I’m learning everything from algorithms to AI. 🌱 I love working with both back-end technologies like Python, Java, and C++, as well as front-end development such as JavaScript and HTML/CSS. My goal is to write clean, efficient code and continuously improve my skills. My recent internship at Manuh Technologies allowed me to dive into machine learning projects and collaborate on building an investment recommendation engine. 💡 Outside of work, I'm always working on projects that challenge me and help me grow. Some of my favorite projects include a news aggregator powered by advanced NLP and a steganography system for secure communication. Let’s connect and build something amazing together!
 
-**Here is the link to my website**: [kethanpilla.github.io/dev-edward-project/](url)
+**Here is the link to my website**: [https://kethanpilla.github.io/dev-edward-project/](url)
 
 *   ✉️  You can contact me at [kethanpilla11@gmail.com](mailto:kethanpilla11@gmail.com)
 ### Skills 
