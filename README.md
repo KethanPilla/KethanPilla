@@ -25,6 +25,14 @@ I'm Kethan Pilla, a full-stack developer with a strong foundation in designing s
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/KethanPilla"><img src="https://github-readme-stats.vercel.app/api?username=KethanPilla&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KethanPilla's GitHub stats" /></a>
+<a href="http://www.github.com/kethanpilla"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kethanpilla&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/KethanPilla" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KethanPilla&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/kethanpilla" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethanpilla&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/kethanpilla/Uber-fullStackClone-MERN" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kethanpilla&repo=Uber-fullStackClone-MERN&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kethanpilla/Amazon-Prime-CI-CD-Pipeline" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kethanpilla&repo=Amazon-Prime-CI-CD-Pipeline&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/kethanpilla/HealthLine-Assistant" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kethanpilla&repo=HealthLine-Assistant&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kethanpilla/Challenge-Response-protocol" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kethanpilla&repo=Challenge-Response-protocol&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
