@@ -1,4 +1,4 @@
-Hi 👋 My name is Kethan Pilla
+Hi this is Kethan Pilla
 =========================================
 
 Full-Stack Developer/ AI/ML enthusiast.
